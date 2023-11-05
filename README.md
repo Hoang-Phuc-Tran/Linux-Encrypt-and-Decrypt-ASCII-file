@@ -1,5 +1,4 @@
-![Capture1111](https://github.com/Hoang-Phuc-Tran/Ubuntu-Encrypt-and-Decrypt-ASCII-file/assets/120700092/94e4e5bc-12ec-445c-b954-879256c56150)
-
+![261069082-94e4e5bc-12ec-445c-b954-879256c56150](https://github.com/Hoang-Phuc-Tran/Linux-Encrypt-and-Decrypt-ASCII-file/assets/120700092/27e8574b-3c66-4176-86af-b290c3efaf3e)
 
 # cryptoMagic Utility
 
